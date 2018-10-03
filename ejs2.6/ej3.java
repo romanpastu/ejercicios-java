@@ -5,8 +5,8 @@ public class ej3{
     String telefono;
     
     nombre= "Roman Pastushenko";
-    direccion = "Urb la quinta hills 107";
-    telefono = "644355202";
+    direccion = "Direccion Generica 666";
+    telefono = "666666666";
     
     System.out.println("El nombre es: "+ nombre +". La direccion es: "+ direccion +". El numero es: "+ telefono);
     
