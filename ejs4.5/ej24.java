@@ -73,7 +73,6 @@ public class ej24{
   }
 
 private static int parseInt(double retencionIRPF) {
-	// TODO Auto-generated method stub
 	return 0;
 }
 }
