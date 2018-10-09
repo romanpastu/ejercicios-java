@@ -16,10 +16,6 @@ public class ej12 {
 			myArray[i] = myArray[i-2]+myArray[i-1];
 			System.out.println(myArray[i]);
 		}
-		/*
-		 
-		 */
-
 	}
 
 }
