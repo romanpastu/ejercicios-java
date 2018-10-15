@@ -2,7 +2,7 @@ import java.util.*;
 public class ej21 {
 
 	public static void main(String[] args) {
-		System.out.println("Introduce numeros, para parar introduce uno negativo");
+		System.out.println("Introduce numeros. Para parar introduce uno negativo");
 		Scanner S = new Scanner(System.in);
 		int valor = 0;
 		int contadorNumeros = 0;
