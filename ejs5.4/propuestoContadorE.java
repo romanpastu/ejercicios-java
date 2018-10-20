@@ -1,4 +1,4 @@
-//Hacer un programa que nos muestre los números del 0-0-0 al 9-9-9, sustituyendo cada dígito "3" por la letra "E"
+//Hacer un programa que nos muestre los nÃºmeros del 0-0-0 al 9-9-9, sustituyendo cada dÃ­gito "3" por la letra "E"
 import java.util.*;
 public class propuestoContadorE {
 
@@ -30,12 +30,12 @@ public class propuestoContadorE {
 			System.out.println();
 			
 			if ( i == 9) {
-				i=0;
+				i=-1;
 				b++;
 			}
 			if (b== 10 ) {
 				b=0;
-				i=0;
+				i=-1;
 				a++;
 			}
 			if(a == 10) {
