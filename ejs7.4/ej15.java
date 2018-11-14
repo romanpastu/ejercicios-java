@@ -19,15 +19,12 @@ public class ej15 {
 		System.out.println();
 
 		// Se Introducen los clientes que hay
-		System.out.println("¿Cuantos clientes sois?(-1 para salir)");
+		System.out.println("Â¿Cuantos clientes sois?(-1 para salir)");
 
 		int numeroClientes = 0;
 
-		while (numeroClientes != -1) { // Por algun motivo es lo que hace que
-										// prosiga el loop
-
+		while (numeroClientes != -1) { 
 			do {
-
 				if (numeroClientes != -1) {
 					numeroClientes = S.nextInt();
 					if (numeroClientes > 4) {
