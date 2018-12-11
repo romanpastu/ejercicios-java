@@ -1,5 +1,3 @@
-package p1;
-
 
 public class funciones1a14 {
 
